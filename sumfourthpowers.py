@@ -1,7 +1,9 @@
 #!/usr/bin/python
 import math
 
-Max=10000
+
+# Warning, this will take ages to run.
+Max=100000000
 
 fourthPowerSet=set()
 
