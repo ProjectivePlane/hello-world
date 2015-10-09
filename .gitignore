@@ -58,3 +58,9 @@ target/
 
 # Emacs
 *.py~
+*.tex~
+
+# LaTeX
+*.aux
+*.dvi
+*.log
